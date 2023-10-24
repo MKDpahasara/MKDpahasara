@@ -1,7 +1,8 @@
 ![MasterHead](https://mitsloan.mit.edu/sites/default/files/styles/article_header/public/2021-04/machine-learning_2.jpg?h=865425c3&itok=AJPWyQXS)
-<h1 align="center">Hi 👋, I'm Damindu Pahasara</h1>
-<h3 align="center">Im Undergraduate in Data Science at SLTC Reserch University and 
-Data Science Intern at SLT Digital Services </h3>
+
+<h1 align="center"> Hi 👋, I'm Damindu Pahasara </h1>
+<h3 align="center"> Im Undergraduate in Data Science at SLTC Reserch University and Data Science Intern at SLT Digital Services </h3>
+
 <img align="right" alt="Coding" width="400" src="https://uploads-ssl.webflow.com/5c19100c2b50073e6ee69da1/60d35967a853a1b14851703b_All%20the%20data%20(1).gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mkdpahasara&label=Profile%20views&color=0e75b6&style=flat" alt="mkdpahasara" /> </p>
