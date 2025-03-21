@@ -1,7 +1,7 @@
 ![MasterHead](https://mitsloan.mit.edu/sites/default/files/styles/article_header/public/2021-04/machine-learning_2.jpg?h=865425c3&itok=AJPWyQXS)
 
 <h1 align="center"> Hi 👋, I'm Damindu Pahasara </h1>
-<h3 align="center"> Im Undergraduate in Data Science at SLTC Reserch University and Data Science Intern at SLT Digital Services </h3>
+<h3 align="center"> I’m a Machine Learning Developer and Data Science graduate from SLTC Research University, a Google-certified data Analyst, Oracle Cloud Generative AI Certified, and a freelancer specializing in machine learning, data science, and AI. With data science, creative design, and AI expertise, I help businesses solve problems using data-driven insights. Let’s connect and collaborate on data science, AI, and machine learning projects. 🫡 </h3>
 
 <img align="right" alt="Coding" width="400" src="https://uploads-ssl.webflow.com/5c19100c2b50073e6ee69da1/60d35967a853a1b14851703b_All%20the%20data%20(1).gif">
 
@@ -9,13 +9,13 @@
 
 <p align="left"> <a href="https://twitter.com/pahasaramkd" target="blank"><img src="https://img.shields.io/twitter/follow/pahasaramkd?logo=twitter&style=for-the-badge" alt="pahasaramkd" /></a> </p>
 
-- 🔭 I’m currently working in an **Data Science Intern**
+- 🔭 I’m currently working as a **Data Scientist and an ML Developer**
 
-- 🌱 I’m currently learning **Big data and Machine learning**
+- 🌱 I’m currently learning **Big data and Machine learning(Computer vision and NLP)**
 
-- 👨‍💻 All of my projects are available at [https://pahasaramkd.wixsite.com/mkd-pahasara](https://pahasaramkd.wixsite.com/mkd-pahasara)
+- 👨‍💻 All of my projects are available at [https://sites.google.com/view/mkdpahasara/](https://sites.google.com/view/mkdpahasara/)
 
-- 💬 Ask me about **Big data , machine learning , data analytics**
+- 💬 Ask me about **Big data , machine learning , data analytics , Python , Computer vision and NLP**
 
 - 📫 How to reach me **pahasaramkd@gmail.com**
 
